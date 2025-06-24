@@ -11,7 +11,7 @@
 - Daily rewards and achievements
 
 ## Support
-For help or questions, [open an issue](https://github.com/VictoryCATiii3/Tilted_Board/issues) or email victor7670326@gmail.com.
+For help or questions, [open an issue](https://github.com/VictoryCATiii3/Tilted_Boards/issues) or email victor7670326@gmail.com.
 
 ## Privacy Policy
-[Read our privacy policy here](https://github.com/VictoryCATiii3/Tilted_Board/blob/main/PRIVACY.md)
+[Read our privacy policy here](https://github.com/VictoryCATiii3/Tilted_Boards/blob/main/PRIVACY.md)
