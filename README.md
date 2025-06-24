@@ -15,3 +15,6 @@ For help or questions, [open an issue](https://github.com/VictoryCATiii3/Tilted_
 
 ## Privacy Policy
 [Read our privacy policy here](https://github.com/VictoryCATiii3/Tilted_Boards/blob/main/PRIVACY.md)
+
+## Terms and Conditions
+[Read our Terms and Conditions here](https://github.com/VictoryCATiii3/Tilted_Boards/blob/main/TERMS_AND_CONDITIONS.md)
